@@ -1,0 +1,21 @@
+.list-customers-page {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .list-customers-page table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+  }
+  
+  .list-customers-page th, .list-customers-page td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  .list-customers-page th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }

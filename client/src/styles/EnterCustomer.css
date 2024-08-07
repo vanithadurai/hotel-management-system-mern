@@ -1,0 +1,27 @@
+.add-customer-page {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .add-customer-page form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-customer-page input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .add-customer-page button {
+    padding: 10px;
+    background-color: #141516;
+    border: 1px solid #ccc;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
